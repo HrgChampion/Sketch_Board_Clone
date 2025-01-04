@@ -1,0 +1,23 @@
+{
+  "name": "sketch_board_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HrgChampion/Sketch_Board_Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HrgChampion/Sketch_Board_Clone/issues"
+  },
+  "homepage": "https://github.com/HrgChampion/Sketch_Board_Clone#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
